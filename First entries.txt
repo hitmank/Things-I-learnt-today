@@ -1,2 +1,16 @@
 Thursday, 21st September
-ARC and strong retain cycles - short video :  https://www.youtube.com/watch?v=VcoZJ88d-vM
+iOS:
+1. ARC and strong retain cycles - short video :  https://www.youtube.com/watch?v=VcoZJ88d-vM
+
+2. Concurrency and threading in iOS : video :https://www.youtube.com/watch?v=iTcq6L-PaDQ
+- Not very good, need to read more about GCD and queue switching.
+- How can main (serial) queue be async? Dispatch.main.async{}
+
+Mining:
+1. Similar item sets -> k-Shingling, and Jaccard.
+2. Min Hashing to reduce size of set
+   - Still not clear how Jaccard similarity and min hashing comparison have same prob.
+   - must read again. Then proceed to locality sensitive hashing(bands)
+
+- Must read again
+
