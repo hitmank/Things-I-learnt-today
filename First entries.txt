@@ -14,3 +14,14 @@ Mining:
 
 - Must read again
 
+——————————————
+Friday, 22nd September
+
+1. React for Beginners - https://www.youtube.com/watch?annotation_id=annotation_3776896399&feature=iv&src_vid=PGUMRVowdv8&v=ZnRFerIP8aA
+(Prep for hackathon)
+- Interesting, have to learn more.
+
+2. Re-read MinHashing.
+- Clear about Jaccard and min-hash similarity.
+- Will need to re-read the probability calculations before quiz. Most likely source of questions will be choose a appropriate b and r for some threshold.
+- Completed Locality sensitive hashing. Clear.
