@@ -25,3 +25,25 @@ Friday, 22nd September
 - Clear about Jaccard and min-hash similarity.
 - Will need to re-read the probability calculations before quiz. Most likely source of questions will be choose a appropriate b and r for some threshold.
 - Completed Locality sensitive hashing. Clear.
+———————————
+Saturday, 23rd September and Sunday, 24th September
+
+1. ACM Hackathon at USC
+-> Used the Google Maps API quite a bit.
+-> very easy to use with minimal “Register your app and get key” kind of stuff.
+-> More than learning things technically, I learnt more about building a web app in a limited time frame.
+-> Need to have server and front end modules at least set up before the event.
+-> Need to investigate possible risks at a early stage.
+   -Learnt this because of the problem of converting Addresses to LatLong, with googles geocode api which had a limit.
+-> Prepare for your demo!!!!
+-> Prepare to sleep less
+——————————
+Monday, 25th September.
+
+1. Tutorial on Flask. -> Short, will continue part 2 tomorrow.
+2. PCFG’s -> This is for NLP assignment 3. 
+	-> Read the basics of CFG and PCFG. Seems simple. Have to complete tomorrow and start on assignment.
+	-> Also, brush up on log-log scales for graphs on the assignment.
+——————————————
+Tuesday, 26th September.
+
