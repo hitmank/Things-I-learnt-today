@@ -37,6 +37,7 @@ Saturday, 23rd September and Sunday, 24th September
    -Learnt this because of the problem of converting Addresses to LatLong, with googles geocode api which had a limit.
 -> Prepare for your demo!!!!
 -> Prepare to sleep less
+-> we got a special mention for our idea being very useful or something.
 ——————————
 Monday, 25th September.
 
@@ -45,5 +46,24 @@ Monday, 25th September.
 	-> Read the basics of CFG and PCFG. Seems simple. Have to complete tomorrow and start on assignment.
 	-> Also, brush up on log-log scales for graphs on the assignment.
 ——————————————
-Tuesday, 26th September.
+Thursday, 19th October (Haven’t been updating this for a while)
+
+Brief summary of the last month or so.
+1. NLP
+	- Learnt and implemented the CYK parser. Good fun working with dynamic programming. Spent a long time (too long) on the back-tracking part to actually get the solution. Shows I didn’t really understand that well enough. 
+	- Midterm - a lot of dependency parsing, POS tagging, Viterbi Algorithm, Shift reduce parsers. - Will definately have to revisit for Finals.
+
+2. Data Mining 
+	- Implemented the SON algorithm for frequent item sets in Scala and Spark. Good experience. The core algorithm was simple enough, but spent a lot of time on things like writing custom sort for a list of lists. 
+	- Had 3 whole classes on Recommender systems. Very well taught and with the weekly quizzes, its been easy to keep up.
+	- Now moved onto Clustering and slightly more advanced things. Requires more time.
+	- Currently implementing a User-User and Item-Item based Collaborative filtering recommender for assignment 3. - Stuck at imputing values for unknown users/items. - with the current pressure, I just want to beat the baseline defined and submit it.
+
+3.Job search/preparation
+-> A lot of rejects, a lot of no replies.
+-> Avvo process is ongoing. I am looking at iOS again. Things are flooding back. Confidence is building but need more prep on things I used to know and also many things I used and didn’t understand.
+-> General algorithms etc, going pretty slow. Too much to do with NLP and Mining assignments, exams and quizzes.
+
+
+
 
