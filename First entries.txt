@@ -64,6 +64,42 @@ Brief summary of the last month or so.
 -> Avvo process is ongoing. I am looking at iOS again. Things are flooding back. Confidence is building but need more prep on things I used to know and also many things I used and didn’t understand.
 -> General algorithms etc, going pretty slow. Too much to do with NLP and Mining assignments, exams and quizzes.
 
+—————————————
+Sunday, 22nd October ( update for last 2 days)
+
+1. Implemented User-User and Item-Item Recommender system. Vanilla algorithm is not good enough for the test case given due to Cold-Start issues.
+Hence tried various imputation methods.
+-> User Average , Item Average, random number, etc. 
+
+For item-item based CF, using the item average is the best till now.
+
+2. For ALS(Alternating Least Squares) Recommender, Neither User avg or Item avg made it better. Instead read this paper : https://www.researchgate.net/publication/224587995_Boosting_collaborative_filtering_based_on_missing_data_imputation_using_item%27s_genre_information?enrichId=rgreq-d11a21cbf649652e950d8e18916eddaf-XXX&enrichSource=Y292ZXJQYWdlOzIyNDU4Nzk5NTtBUzoxMDIxNTQ4NDUwMzI0NjBAMTQwMTM2NzAyMjEyOA%3D%3D&el=1_x_2&_esc=publicationCoverPdf
+ and tried their way.
+-> Basically, Check the items genre. Get the average rating of the user on items of that genre and impute with that value.
+-> Works pretty well.
+
+3. Completed NLP assignment 5. Very easy compared to the last one. Basic Cosine Similarity. 
+-> Used numpy for the first time. Very similar to Scala.
+
+4. Read 2 really good articles on design patterns. iOS Specific but very useful in general as well.
+-> https://www.raywenderlich.com/160651/design-patterns-ios-using-swift-part-12
+-> https://www.raywenderlich.com/160653/design-patterns-ios-using-swift-part-22
+
+Very well explained, with practical implementation.
+Patterns covered ->
+Creational: Singleton.
+Structural: MVC, Decorator, Adapter, Facade.
+Behavioral: Observer, and, Memento
+
+5. Read a nice article on why you shouldnt use Notifications (AKA observer) in swift.
+-> https://davidnix.io/post/stop-using-nsnotificationcenter/
+-> Agrees with everything my architect at SAP used to say.
+
+6. Watched tussah roy - how to invert a binary tree (stack + queue). -> but I don’t think what he explains is actually inverting a tree..
+
+7. Searching in a binary tree -> Recap, but needed it. Forgot so much about simple recursion.
+
+
 
 
 
